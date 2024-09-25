@@ -1,2 +1,6 @@
 i am here
+<<<<<<< HEAD
 stay here
+=======
+go there
+>>>>>>> student
